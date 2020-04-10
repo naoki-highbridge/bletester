@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">bletester</string>
+    <string name="start_button">START SCAN</string>
+    <string name="stop_button">STOP SCAN</string>
+    <string name="address_label">Address:</string>
+    <string name="temp_label">Temp:</string>
+    <string name="rh_label">RH:</string>
+    <string name="rssi_label">RSSI:</string>
+    <string name="scanning">(Scanning…)</string>
+</resources>
